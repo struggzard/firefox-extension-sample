@@ -1,7 +1,7 @@
 const createNotification = () => {
     browser.notifications.create({
         "type": "basic",
-        "iconUrl": browser.extension.getURL("icons/baseline_notification_important_black_48dp.png"),
+        "iconUrl": browser.extension.getURL("icons/notification_black_48dp.png"),
         "title": "Hi!",
         "message": "Just test content :)"
     });

@@ -6,7 +6,7 @@
   "description": "Sample browser extension to annoy user with useless notifications :)",
 
   "icons": {
-    "48": "icons/baseline_work_outline_black_48dp.png"
+    "48": "icons/notification_black_48dp.png"
   },
 
   "background": {
